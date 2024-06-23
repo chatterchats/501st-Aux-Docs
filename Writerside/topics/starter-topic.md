@@ -33,10 +33,6 @@ To add switchable content, you can make use of tabs (inject them by starting to 
     <tab title="Markdown">
         <code-block lang="plain text">![Alt Text](new_topic_options.png){ width=450 }</code-block>
     </tab>
-    <tab title="Semantic markup">
-        <code-block lang="xml" >
-        </code-block>
-    </tab>
 </tabs>
 
 ### Collapsible blocks
