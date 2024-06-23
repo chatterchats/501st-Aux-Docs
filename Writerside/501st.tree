@@ -9,22 +9,7 @@
     <toc-element topic="starter-topic.md"/>
     <toc-element toc-title="501st-Aux-Mod - Aux501st">
         <toc-element toc-title="Weapons">
-            <toc-element toc-title="Accessories">
-
-            </toc-element>
-            <toc-element toc-title="Ammo">
-
-            </toc-element>
             <toc-element toc-title="CIS">
-
-            </toc-element>
-            <toc-element toc-title="Explosives">
-
-            </toc-element>
-            <toc-element toc-title="Grenades">
-
-            </toc-element>
-            <toc-element toc-title="Magazines">
 
             </toc-element>
             <toc-element toc-title="Mandalorians">
@@ -34,7 +19,7 @@
 
             </toc-element>
             <toc-element toc-title="Republic">
-
+                <toc-element topic="DC-15A.md"/>
             </toc-element>
 
         </toc-element>
