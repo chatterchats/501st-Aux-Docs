@@ -12,7 +12,7 @@ permissions:
 env:
   INSTANCE: 'Writerside/501st'
   ARTIFACT: 'webHelp501ST2-all.zip'
-  DOCKER_VERSION: '241.15989'
+  DOCKER_VERSION: '241.16003'
 
 jobs:
   build:
