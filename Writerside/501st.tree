@@ -7,87 +7,64 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
-    <toc-element toc-title="501st-Aux-Mod - Aux501st">
-        <toc-element toc-title="Weapons">
-            <toc-element toc-title="CIS">
+    <toc-element toc-title="BLUFOR">
+        <toc-element toc-title="Republic">
+            <toc-element toc-title="Weapons">
 
             </toc-element>
-            <toc-element toc-title="Mandalorians">
+            <toc-element toc-title="Armour">
+                <toc-element toc-title="Helmets">
+
+                </toc-element>
+                <toc-element toc-title="Vests">
+
+                </toc-element>
+                <toc-element toc-title="Backpack">
+
+                </toc-element>
+                <toc-element toc-title="Uniforms">
+
+                </toc-element>
 
             </toc-element>
-            <toc-element toc-title="PDF">
+            <toc-element toc-title="Units">
+                <toc-element toc-title="Infantry">
+
+                </toc-element>
 
             </toc-element>
-            <toc-element toc-title="Republic">
-                <toc-element topic="DC-15A.md"/>
-            </toc-element>
 
-        </toc-element>
-        <toc-element toc-title="Units">
-            <toc-element toc-title="CIS">
-
-            </toc-element>
-            <toc-element toc-title="Civilians">
-
-            </toc-element>
-            <toc-element toc-title="Mandalorians">
-
-            </toc-element>
-            <toc-element toc-title="Mercs">
-
-            </toc-element>
-            <toc-element toc-title="PDF">
-
-            </toc-element>
-            <toc-element toc-title="Republic">
-
-            </toc-element>
         </toc-element>
     </toc-element>
-    <toc-element toc-title="501st-Aux-Mod - addons">
-        <toc-element toc-title="RD501_3DEN">
+    <toc-element toc-title="OFPOR">
+        <toc-element toc-title="CIS">
+            <toc-element toc-title="Weapons">
+
+            </toc-element>
+            <toc-element toc-title="Armour">
+
+            </toc-element>
+            <toc-element toc-title="Units">
+                <toc-element toc-title="Infantry">
+
+                </toc-element>
+                <toc-element toc-title="Heavy Infantry">
+
+                </toc-element>
+
+            </toc-element>
 
         </toc-element>
-        <toc-element toc-title="RD501_Compositions">
+        <toc-element toc-title="Mandolorians">
+            <toc-element toc-title="Weapons">
 
-        </toc-element>
-        <toc-element toc-title="RD501_Droid_Dispenser">
+            </toc-element>
+            <toc-element toc-title="Armour">
 
-        </toc-element>
-        <toc-element toc-title="RD501_Droids">
+            </toc-element>
+            <toc-element toc-title="Units">
 
-        </toc-element>
-        <toc-element toc-title="RD501_EMP">
-
-        </toc-element>
-        <toc-element toc-title="RD501_Helmets">
-
-        </toc-element>
-        <toc-element toc-title="RD501_Jumppack">
-
-        </toc-element>
-        <toc-element toc-title="RD501_Main">
-
-        </toc-element>
-        <toc-element toc-title="RD501_Particle_Effects">
-
-        </toc-element>
-        <toc-element toc-title="RD501_RDS">
-
-        </toc-element>
-        <toc-element toc-title="RD501_Units">
-
-        </toc-element>
-        <toc-element toc-title="RD501_Vehicle_Weapons">
-
-        </toc-element>
-        <toc-element toc-title="RD501_Vehicles">
-
-        </toc-element>
-        <toc-element toc-title="RD501_Weapons">
-
-        </toc-element>
-        <toc-element toc-title="RD501_Zeus">
+            </toc-element>
 
         </toc-element>
     </toc-element>
