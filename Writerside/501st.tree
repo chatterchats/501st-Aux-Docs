@@ -17,19 +17,75 @@
             <toc-element toc-title="Weapons">
 
                 <toc-element toc-title="Primary Weapons">
-                    <toc-element toc-title="DC-15A.md"/>
-                    <toc-element toc-title="DC-15L.md"/>
-                </toc-element>
+
+                    <toc-element toc-title="Standard Rifles">
+                        <toc-element toc-title="DC-15A.md"/>
+                        <toc-element toc-title="DC-15C.md"/>
+                        <toc-element toc-title="DC-15S.md"/>
+
+                        <toc-element toc-title="Westar M4.md"/>
+                        #ARC Only
+                        <toc-element toc-title="Westar M5.md"/>
+                        #Medic Only
+                        <toc-element toc-title="DC-17M.md"/>
+                    </toc-element>
+
+                    <toc-element toc-title="Assualt">
+                        <toc-element toc-title="RAMR.md"/>
+                    </toc-element>
+
+
+                    <toc-element toc-title="CQS">
+                        <toc-element toc-title="Drexl.md"/>
+                        <toc-element toc-title="Purge-3.md"/>
+                    </toc-element>
+
+                    <toc-element toc-title="Grenadier">
+                        <toc-element toc-title="DC-15A UGL.md"/>
+                        <toc-element toc-title="DC-15C UGL.md"/>
+                        <toc-element toc-title="RGL-6.md"/>
+                    </toc-element>
+
+                    <toc-element toc-title="Marksman">
+                        <toc-element toc-title="Valken 38X.md"/>
+                        <toc-element toc-title="Valken 38Y.md"/>
+                        <toc-element toc-title="15X.md"/>
+                    </toc-element>
+
+                    <toc-element toc-title="Support">
+                        <toc-element toc-title="DC-15L.md"/>
+                        <toc-element toc-title="Z6.md"/>
+                    </toc-element>
+
+
+                </toc-element> #end of primary weapons
 
                 <toc-element toc-title="Secondary Weapons">
                     <toc-element toc-title="DC-17A.md"/>
                     <toc-element toc-title="DC-17 Signal Pistol.md"/>
+                    <toc-element toc-title="Razarblade.md"/>
                 </toc-element>
 
                 <toc-element toc-title="Launchers">
-                    <toc-element toc-title="RPS-4.md"/>
-                    <toc-element toc-title="RPS-6.md"/>
-                    <toc-element toc-title="PLX.md"/>
+
+                    <toc-element toc-title="Anti-Tank">
+                        <toc-element toc-title="RPS-1.md"/>
+                        <toc-element toc-title="RPS-4.md"/>
+                        <toc-element toc-title="RPS-6.md"/>
+                        <toc-element toc-title="PLX.md"/>
+                    </toc-element>
+
+                    <toc-element toc-title="Combat Engineer">
+                        <toc-element toc-title="Boomer.md"/>
+                        <toc-element toc-title="Striker.md"/>
+                        <toc-element toc-title="Driver.md"/>
+                        <toc-element toc-title="81mm Mortar.md"/>
+                    </toc-element>
+
+                    <toc-element toc-title="Support">
+                        <toc-element toc-title="Z1000.md"/>
+                    </toc-element>
+
                 </toc-element>
 
             </toc-element>
@@ -126,9 +182,9 @@
 
             </toc-element>
 
-        </toc-element>
+        </toc-element> #end of Republic
 
-    </toc-element>
+    </toc-element> #end of BLUFOR
 
     <toc-element toc-title="OFPOR">
 
