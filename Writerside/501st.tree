@@ -3,17 +3,240 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="501st"
-                 name="501st Aux Mod Document"
-                 start-page="starter-topic.md">
+                  name="501st Aux Mod Document"
+                  start-page="starter-topic.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="starter-topic.md">
+
+    </toc-element>
+
     <toc-element toc-title="BLUFOR">
+
         <toc-element toc-title="Republic">
+
             <toc-element toc-title="Weapons">
 
+                <toc-element toc-title="Primary Weapons">
+                    <toc-element toc-title="DC-15A.md"/>
+                    <toc-element toc-title="DC-15L.md"/>
+                </toc-element>
+
+                <toc-element toc-title="Secondary Weapons">
+                    <toc-element toc-title="DC-17A.md"/>
+                    <toc-element toc-title="DC-17 Signal Pistol.md"/>
+                </toc-element>
+
+                <toc-element toc-title="Launchers">
+                    <toc-element toc-title="RPS-4.md"/>
+                    <toc-element toc-title="RPS-6.md"/>
+                    <toc-element toc-title="PLX.md"/>
+                </toc-element>
+
             </toc-element>
+
             <toc-element toc-title="Armour">
+
                 <toc-element toc-title="Helmets">
+
+                </toc-element>
+
+                <toc-element toc-title="Uniforms">
+
+                </toc-element>
+
+                <toc-element toc-title="Vests">
+
+                </toc-element>
+
+                <toc-element toc-title="Backpack">
+
+                </toc-element>
+
+            </toc-element>
+
+            <toc-element toc-title="Vehicles">
+
+                <toc-element toc-title="Ground">
+
+                    <toc-element toc-title="Cars">
+
+                    </toc-element>
+
+                    <toc-element toc-title="Trucks">
+
+                    </toc-element>
+
+                </toc-element>
+
+                <toc-element toc-title="Air">
+
+                    <toc-element toc-title="Rotary Wing">
+
+                    </toc-element>
+
+                    <toc-element toc-title="Fixed Wing">
+
+                    </toc-element>
+
+                </toc-element>
+
+            </toc-element>
+
+            <toc-element toc-title="Equipment">
+
+                <toc-element toc-title="Navigation Equipment">
+
+                    <toc-element toc-title="Map">
+
+                    </toc-element>
+
+                    <toc-element toc-title="Compass">
+
+                    </toc-element>
+
+                    <toc-element toc-title="Etc">
+
+                    </toc-element>
+
+                </toc-element>
+
+                <toc-element toc-title="NVGs">
+
+                    <toc-element toc-title="Regular">
+
+                    </toc-element>
+
+                    <toc-element toc-title="With Thermals">
+
+                    </toc-element>
+
+                </toc-element>
+
+            </toc-element>
+
+            <toc-element toc-title="Units">
+
+                <toc-element toc-title="Infantry">
+
+                </toc-element>
+
+                <toc-element toc-title="Armor">
+
+                </toc-element>
+
+            </toc-element>
+
+        </toc-element>
+
+    </toc-element>
+
+    <toc-element toc-title="OFPOR">
+
+        <toc-element toc-title="CIS">
+
+            <toc-element toc-title="Weapons">
+
+                <toc-element toc-title="Primary Weapons">
+
+                </toc-element>
+
+                <toc-element toc-title="Secondary Weapons">
+
+                </toc-element>
+
+                <toc-element toc-title="Launchers">
+
+                </toc-element>
+
+            </toc-element>
+
+            <toc-element toc-title="Armour">
+
+                <toc-element toc-title="Helmets">
+
+                </toc-element>
+
+                <toc-element toc-title="Uniforms">
+
+                </toc-element>
+
+                <toc-element toc-title="Vests">
+
+                </toc-element>
+
+                <toc-element toc-title="Backpack">
+
+                </toc-element>
+
+
+                <toc-element toc-title="Equipment">
+
+                </toc-element>
+
+            </toc-element>
+
+            <toc-element toc-title="Vehicles">
+
+                <toc-element toc-title="Ground">
+
+                    <toc-element toc-title="Cars">
+
+                    </toc-element>
+
+                    <toc-element toc-title="Trucks">
+
+                    </toc-element>
+
+                </toc-element>
+
+                <toc-element toc-title="Air">
+
+                    <toc-element toc-title="Rotary Wing">
+
+                    </toc-element>
+
+                    <toc-element toc-title="Fixed Wing">
+
+                    </toc-element>
+
+                </toc-element>
+
+            </toc-element>
+
+            <toc-element toc-title="Units">
+
+                <toc-element toc-title="Infantry"/>
+
+                <toc-element toc-title="Heavy Infantry"/>
+
+            </toc-element>
+
+        </toc-element>
+
+        <toc-element toc-title="Mandolorians">
+
+            <toc-element toc-title="Weapons">
+
+                <toc-element toc-title="Primary Weapons">
+
+                </toc-element>
+
+                <toc-element toc-title="Secondary Weapons">
+
+                </toc-element>
+
+                <toc-element toc-title="Launchers">
+
+                </toc-element>
+
+            </toc-element>
+
+            <toc-element toc-title="Armour">
+
+                <toc-element toc-title="Helmets">
+
+                </toc-element>
+                <toc-element toc-title="Uniforms">
 
                 </toc-element>
                 <toc-element toc-title="Vests">
@@ -22,50 +245,85 @@
                 <toc-element toc-title="Backpack">
 
                 </toc-element>
-                <toc-element toc-title="Uniforms">
+
+                <toc-element toc-title="Equipment">
+
+                </toc-element>
+
+
+            </toc-element>
+
+            <toc-element toc-title="Vehicles">
+
+                <toc-element toc-title="Ground">
+
+                    <toc-element toc-title="Cars">
+
+                    </toc-element>
+
+                    <toc-element toc-title="Trucks">
+
+                    </toc-element>
+
+                </toc-element>
+
+                <toc-element toc-title="Air">
+
+                    <toc-element toc-title="Rotary Wing">
+
+                    </toc-element>
+                    <toc-element toc-title="Fixed Wing">
+
+                    </toc-element>
 
                 </toc-element>
 
             </toc-element>
-            <toc-element toc-title="Units">
-                <toc-element toc-title="Infantry">
 
-                </toc-element>
-
-            </toc-element>
+            <toc-element toc-title="Units"/>
 
         </toc-element>
+
     </toc-element>
-    <toc-element toc-title="OFPOR">
-        <toc-element toc-title="CIS">
-            <toc-element toc-title="Weapons">
+
+    <toc-element toc-title="CIVILIANS">
+
+        <toc-element toc-title="Units">
+
+            <toc-element toc-title="Humans">
 
             </toc-element>
-            <toc-element toc-title="Armour">
 
-            </toc-element>
-            <toc-element toc-title="Units">
-                <toc-element toc-title="Infantry">
+        </toc-element>
+
+        <toc-element toc-title="Vehicles">
+
+            <toc-element toc-title="Ground">
+
+                <toc-element toc-title="Cars">
 
                 </toc-element>
-                <toc-element toc-title="Heavy Infantry">
+
+                <toc-element toc-title="Trucks">
+
+                </toc-element>
+
+            </toc-element>
+
+            <toc-element toc-title="Air">
+
+                <toc-element toc-title="Rotary Wing">
+
+                </toc-element>
+
+                <toc-element toc-title="Fixed Wing">
 
                 </toc-element>
 
             </toc-element>
 
         </toc-element>
-        <toc-element toc-title="Mandolorians">
-            <toc-element toc-title="Weapons">
 
-            </toc-element>
-            <toc-element toc-title="Armour">
-
-            </toc-element>
-            <toc-element toc-title="Units">
-
-            </toc-element>
-
-        </toc-element>
     </toc-element>
+
 </instance-profile>
