@@ -58,6 +58,7 @@
                     </toc-element>
 
 
+
                 </toc-element> #end of primary weapons
 
                 <toc-element toc-title="Secondary Weapons">
@@ -88,6 +89,10 @@
 
                 </toc-element>
 
+                <toc-element toc-title="Ammo Types">
+                    <toc-element toc-title="Example Ammo Type.md"/>
+                </toc-element>
+
             </toc-element>
 
             <toc-element toc-title="Armour">
@@ -105,6 +110,10 @@
                 </toc-element>
 
                 <toc-element toc-title="Backpack">
+
+                </toc-element>
+
+                <toc-element toc-title="Facewear">
 
                 </toc-element>
 
